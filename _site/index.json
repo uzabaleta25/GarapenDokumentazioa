@@ -1,4 +1,9 @@
 {
+  "README.html": {
+    "href": "README.html",
+    "title": "GarapenDokumentazioa | TicketBaiAzalpena",
+    "summary": "GarapenDokumentazioa"
+  },
   "api/TicketBai2026.Nagusia.html": {
     "href": "api/TicketBai2026.Nagusia.html",
     "title": "Class Nagusia | TicketBaiAzalpena",
