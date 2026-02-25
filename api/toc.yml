@@ -1,0 +1,13 @@
+### YamlMime:TableOfContent
+items:
+- uid: TicketBai2026
+  name: TicketBai2026
+  type: Namespace
+  items:
+  - uid: TicketBai2026.Nagusia
+    name: Nagusia
+    type: Class
+  - uid: TicketBai2026.Tiketak
+    name: Tiketak
+    type: Class
+memberLayout: SamePage

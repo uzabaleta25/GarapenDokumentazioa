@@ -1,0 +1,30 @@
+### YamlMime:ManagedReference
+items:
+- uid: TicketBai2026
+  commentId: N:TicketBai2026
+  id: TicketBai2026
+  children:
+  - TicketBai2026.Nagusia
+  - TicketBai2026.Tiketak
+  langs:
+  - csharp
+  - vb
+  name: TicketBai2026
+  nameWithType: TicketBai2026
+  fullName: TicketBai2026
+  type: Namespace
+  assemblies:
+  - TicketBai2026
+references:
+- uid: TicketBai2026.Nagusia
+  commentId: T:TicketBai2026.Nagusia
+  href: TicketBai2026.Nagusia.html
+  name: Nagusia
+  nameWithType: Nagusia
+  fullName: TicketBai2026.Nagusia
+- uid: TicketBai2026.Tiketak
+  commentId: T:TicketBai2026.Tiketak
+  href: TicketBai2026.Tiketak.html
+  name: Tiketak
+  nameWithType: Tiketak
+  fullName: TicketBai2026.Tiketak
